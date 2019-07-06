@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a16c5ed-debf-4b7c-8f98-32d9054ccaa9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../BinarySearchTree/BinarySearchTree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BinarySearchTree/src/binarytrees/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BinarySearchTree/src/binarytrees/IterativeInOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BinarySearchTree/src/binarytrees/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BinarySearchTree/src/com/praveenst/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BinarySearchTree/src/com/praveenst/PriorityQueueI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BinarySearchTree/src/com/praveenst/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BinarySearchTree/src/com/praveenst/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BinarySearchTree/src/leetcode/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BinarySearchTree/src/leetcode/Codec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BinarySearchTree/src/leetcode/LowestCommonAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BinarySearchTree/src/leetcode/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graph/Graph.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graph/src/com/praveenst/bfs/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graph/src/com/praveenst/bfs/BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graph/src/com/praveenst/bfs/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graph/src/com/praveenst/dfs/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graph/src/com/praveenst/dfs/DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Graph/src/com/praveenst/dfs/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lists/src/com/praveenst/ArrayListExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lists/src/com/praveenst/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lists/src/com/praveenst/ChainedHashtable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lists/src/com/praveenst/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lists/src/com/praveenst/EmployeeDoubleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lists/src/com/praveenst/EmployeeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lists/src/com/praveenst/EmployeeSinglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lists/src/com/praveenst/IntegerNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lists/src/com/praveenst/JDKHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lists/src/com/praveenst/LinkedListMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lists/src/com/praveenst/LinkedListPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lists/src/com/praveenst/LinkedStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lists/src/com/praveenst/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lists/src/com/praveenst/ReverseLinkedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lists/src/com/praveenst/ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lists/src/com/praveenst/SimpleHashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lists/src/com/praveenst/StoredEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sort/src/com/praveenst/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sort/src/com/praveenst/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sort/src/com/praveenst/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sort/src/com/praveenst/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sort/src/com/praveenst/RadixCountingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sort/src/com/praveenst/RadixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sort/src/com/praveenst/Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sort/src/com/praveenst/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sort/src/com/praveenst/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../interviews/src/com/praveenst/AddTwoNumbersLinkedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../interviews/src/com/praveenst/BigO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../interviews/src/com/praveenst/Combinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../interviews/src/com/praveenst/GroupAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../interviews/src/com/praveenst/IncreasingTripletSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../interviews/src/com/praveenst/LetterCombinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../interviews/src/com/praveenst/LongestPalindromeSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../interviews/src/com/praveenst/MedianOfSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../interviews/src/com/praveenst/NonRepeatingCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../interviews/src/com/praveenst/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../interviews/src/com/praveenst/ParanthesisGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../interviews/src/com/praveenst/PermuteArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../interviews/src/com/praveenst/RegularExpressionMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../interviews/src/com/praveenst/ReverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../interviews/src/com/praveenst/SetMatrixZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../interviews/src/com/praveenst/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../interviews/src/com/praveenst/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../interviews/src/com/praveenst/ZigZag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amazon-interviews/amazon-interviews.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amazon-interviews/src/com/praveenst/KClosestPointsToOrigin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/couchbase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/praveenst/couchbase/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/praveenst/couchbase/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json/json.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json/src/main/java/praveenst/json/AsyncDataIngestionCB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json/src/main/java/praveenst/json/BaseHobby.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json/src/main/java/praveenst/json/DataBindingRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json/src/main/java/praveenst/json/DataBindingWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json/src/main/java/praveenst/json/DataIngestionCB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json/src/main/java/praveenst/json/domain/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../json/src/main/java/praveenst/json/domain/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/HelloWorld/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/HelloWorld/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/HelloWorld/HelloWorld.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/BinaryNumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/Iterators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/Lists2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/Range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/Recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/RecursionFilesAndDirectory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/Tuples2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/TuplesChallenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/data/sample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/dictionary2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/dictionary3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/dictionary_challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/exits_and_locations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/exits_challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/files_appending.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/files_binary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/files_pickle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/files_reading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/files_shelve.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/files_shelve_updates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/files_writing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/functions01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/isMaprSecure.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/lists_join.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/multiplication_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/scratch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/sets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/basics/sets_challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/k8syaml/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/k8syaml/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/k8syaml/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/k8syaml/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/k8syaml/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/k8syaml/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/k8syaml/datecalc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/k8syaml/k8syaml.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/k8syaml/standardlibraries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/k8syaml/time_challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/k8syaml/timer-calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/k8syaml/turtledemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/k8syaml/turtledemo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/k8syaml/yaml_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/k8syaml/yaml_processor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/k8syaml/yaml_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python3/intro-to-db/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python3/intro-to-db/customer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python3/intro-to-db/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python3/intro-to-db/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python3/intro-to-db/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python3/movies/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python3/movies/movie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python3/movies/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python3/student/app.py" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="30" column="21" lean-forward="true" selection-start-line="21" selection-end-line="30" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/praveenst/couchbase/CouchDataWriter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="920">
+              <caret line="88" column="21" selection-start-line="88" selection-start-column="21" selection-end-line="88" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
+                <element signature="e#527#528#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/praveenst/couchbase/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="93">
+              <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/praveenst/couchbase/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1342">
+              <caret line="47" column="96" selection-start-line="47" selection-start-column="96" selection-end-line="47" selection-end-column="96" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/CouchDataWriter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/praveenst/couchbase/CouchConnection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/praveenst/couchbase/CouchDataWriter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/praveenst/couchbase/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/praveenst/couchbase/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1282" />
+    <option name="y" value="23" />
+    <option name="width" value="1686" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="couchbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="couchbase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="couchbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="couchbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="couchbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="couchbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="couchbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="couchbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="couchbase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="couchbase" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="couchbase" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562450710838" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="praveenst.couchbase.App" />
+      <module name="couchbase" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="praveenst.couchbase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a16c5ed-debf-4b7c-8f98-32d9054ccaa9" name="Default Changelist" comment="" />
+      <created>1562434854574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562434854574</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1282" y="23" width="1686" height="970" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2055961" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32915717" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32915717" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37927106" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/praveenst/couchbase/CouchConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#769#770#0" expanded="true" />
+            <element signature="e#809#810#0" expanded="true" />
+            <element signature="e#842#843#0" expanded="true" />
+            <element signature="e#871#872#0" expanded="true" />
+            <element signature="e#915#916#0" expanded="true" />
+            <element signature="e#951#952#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/praveenst/couchbase/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/praveenst/couchbase/CouchDataWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="88" column="21" selection-start-line="88" selection-start-column="21" selection-end-line="88" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="30" column="21" lean-forward="true" selection-start-line="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/praveenst/couchbase/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1342">
+          <caret line="47" column="96" selection-start-line="47" selection-start-column="96" selection-end-line="47" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7 (python3.7)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Python 3.7 (python3.7)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
