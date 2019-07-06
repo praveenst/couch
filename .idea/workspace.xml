@@ -67,10 +67,6 @@
       <change afterPath="$PROJECT_DIR$/../../interviews/src/com/praveenst/ZigZag.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../amazon-interviews/amazon-interviews.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../amazon-interviews/src/com/praveenst/KClosestPointsToOrigin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/couchbase.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/praveenst/couchbase/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/praveenst/couchbase/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../json/json.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../json/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../json/src/main/java/praveenst/json/AsyncDataIngestionCB.java" afterDir="false" />
@@ -139,6 +135,7 @@
       <change afterPath="$PROJECT_DIR$/../../python3/movies/movie.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../python3/movies/user.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../python3/student/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/praveenst/couchbase/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/praveenst/couchbase/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -188,8 +185,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/praveenst/couchbase/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1342">
-              <caret line="47" column="96" selection-start-line="47" selection-start-column="96" selection-end-line="47" selection-end-column="96" />
+            <state relative-caret-position="418">
+              <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
             </state>
           </provider>
         </entry>
@@ -204,7 +201,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -221,7 +218,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="1282" />
     <option name="y" value="23" />
-    <option name="width" value="1686" />
+    <option name="width" value="1888" />
     <option name="height" value="970" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -272,7 +269,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562450710838" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562451189493" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -324,7 +321,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1282" y="23" width="1686" height="970" extended-state="0" />
+    <frame x="1282" y="23" width="1888" height="970" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -332,16 +329,16 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2055961" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18309858" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" weight="0.32915717" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32915717" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32915717" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37927106" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37927106" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -409,8 +406,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/praveenst/couchbase/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1342">
-          <caret line="47" column="96" selection-start-line="47" selection-start-column="96" selection-end-line="47" selection-end-column="96" />
+        <state relative-caret-position="418">
+          <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
         </state>
       </provider>
     </entry>

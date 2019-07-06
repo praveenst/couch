@@ -1,10 +1,12 @@
 Description
 ===========
 
-Document loading tool:   This tool inserts Json documents into couchbase using couchbase Java sdk based on an user given document size and count.
-The tool uses any fixed schema. It can uses couchbase batch APIs to be faster and efficient for document inserts that is 10 or more.
-The interface may be create n number of documents with distinct keys e.g. key1, key2 …, and arbitrary values.
-Looking at Couchbase UI (localhost:8091) on the Bucket tab you should see the ops per second be non-zero.
+Document loading tool:
+ * This tool inserts Json documents into couchbase using couchbase Java sdk based on an user given document size and count.
+ * The tool uses any fixed schema documented in `Schema` section below.
+ * It can uses couchbase batch APIs to be faster and efficient for document inserts that is 10 or more.
+ * The interface may be create n number of documents with distinct keys e.g. key1, key2 …, and arbitrary values.
+ * Looking at Couchbase UI (localhost:8091) on the Bucket tab you see the ops per second be non-zero.
 
 
 Requirements
@@ -14,8 +16,7 @@ Requirements
  * Install Couchbase and configure a bucket, traditionally called “default”
  * Install Java SDK for the language and platform of your choice from [![Java2.7](https://docs.couchbase.com/java-sdk/2.7/start-using-sdk.html)
 
-
-buckets
+Bucket
 -------
 
 * buckets - `default` - The name used for the Couchbase bucket
@@ -25,7 +26,6 @@ buckets
 
 Resources/Providers
 ===================
-
 
 ### Schema for default bucket
 
@@ -59,7 +59,7 @@ Resources/Providers
             <version>0.12</version>
         </dependency>
 
-### Examples
+### Example Usage:
 
 * For smaller number of documents, say 5 - any number less than 10, the tool iteratively creates records
 
@@ -116,10 +116,20 @@ Creating Documents in couchbase 'Default' bucket with 10of records....
 
 ```
 
+### Testing:
+
+* Navigate to couchbase Query Editor
+* As a function of last `NUMBER_OF_RECORDS` records created, use this query to test
+```
+SELECT d.*
+    FROM default AS d
+    ORDER BY d.lastUpdated DESC
+    LIMIT `NUMBER_OF_RECORDS`;
+```
+
 
 
 License and Author
 ==================
 
 * Author:: Praveen Thangavelu (<praveenst@gmail.com>)
-
